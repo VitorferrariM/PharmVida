@@ -53,6 +53,8 @@ O projeto foi dividido em 3 grandes fases:
 - **Tratamento de Tipagem Multi-Plataforma:** Lidar com os desafios de formatação de casas decimais (pontos vs. vírgulas) na transição de dados processados em Python para plataformas de visualização.
 - **Design de Dashboards:** Aplicação do padrão de "Leitura em Z" para organizar informações de forma hierárquica, garantindo que o usuário consuma primeiro os KPIs gerais e, em seguida, desça para análises mais granulares.
 
+
+
 ---
 **Desenvolvido por [Vitor Ferrari Mendes](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)**  
 *Analista de Dados | Estudante de Ciência de Dados | Embaixador Google Students*
